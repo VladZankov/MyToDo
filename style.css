@@ -1,0 +1,59 @@
+#todo {
+    border: 2px dotted #000000;
+    padding: 10px;
+    width: 25%;
+    text-align: center;
+    margin: auto;
+    margin-top:20px;
+    margin-bottom: 20px;
+    border-radius: 5px
+}
+
+#heading {
+    border: 2px dotted #000000;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    width: 50%;
+    
+}
+
+#input_field {
+    color: #696969;
+    opacity: 0.9;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+#add {
+    margin:auto;
+    margin-top: 10px;
+    margin-bottom:10px;
+    background: #ffffff;
+    border: 1px solid #000000;
+    border-radius: 5px
+
+}
+#add.hover {
+    margin:auto;
+    margin-top: 10px;
+    margin-bottom:10px;
+    background: #ffffff;
+    border: 1px solid #000000;
+    border-radius: 5px
+}
+
+#list_of_tasks {
+    list-style: none;
+    text-align: left;
+    border-top: 2px dotted #000000;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.checkbox:checked {
+    background-color: #FF0000;
+}
