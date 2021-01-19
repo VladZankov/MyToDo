@@ -35,14 +35,6 @@
     border-radius: 5px
 
 }
-#add.hover {
-    margin:auto;
-    margin-top: 10px;
-    margin-bottom:10px;
-    background: #ffffff;
-    border: 1px solid #000000;
-    border-radius: 5px
-}
 
 #list_of_tasks {
     list-style: none;
@@ -54,6 +46,4 @@
     padding: 10px;
 }
 
-.checkbox:checked {
-    background-color: #FF0000;
-}
+
